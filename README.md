@@ -1,2 +1,1 @@
-# master
-main master
+Python 学习
